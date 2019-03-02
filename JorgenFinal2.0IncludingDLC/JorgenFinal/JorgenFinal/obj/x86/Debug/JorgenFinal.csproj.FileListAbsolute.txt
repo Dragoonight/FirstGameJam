@@ -1,0 +1,317 @@
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Axe.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Lose.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\MenuClick.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Win.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\grupp 5.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Fonts\SpriteFont.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Axe.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Back.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Block.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\boll.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\ContinueB.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Credits.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Exit.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\GameOver.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Heart.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Instructions.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Loga.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\NoButton.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  2.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  3.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  4.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  5.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  6.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.1.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.2.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.3.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.4.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.5.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.6.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.7.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Placeholder.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Play.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\spriteSheet.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\ghost.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Victory.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Victory2.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\YesButton.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\grupp 5.wma
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\JorgenFinal.exe
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\JorgenFinal.pdb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.csprojResolveAssemblyReference.cache
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.exe
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.pdb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Block2.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Tutorial.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\CreditsList.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\menu.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\PlayerD.xnb
+c:\users\musse.hasan\documents\visual studio 2015\Projects\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\PlayerD_2.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Axe.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Lose.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\MenuClick.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\PlayerD.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\PlayerD_2.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Win.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\grupp 5.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Fonts\SpriteFont.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Axe.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Back.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Block.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\boll.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\ContinueB.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\CreditsList.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Credits.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Exit.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\GameOver.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Heart.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Instructions.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Loga.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\menu.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\NoButton.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  2.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  3.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  4.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  5.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  6.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.1.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.2.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.3.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.4.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.5.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.6.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.7.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Placeholder.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Play.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\spriteSheet.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\ghost.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Block2.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Victory.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Victory2.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\YesButton.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Tutorial.xnb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\grupp 5.wma
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\JorgenFinal.exe
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\JorgenFinal.pdb
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.csprojResolveAssemblyReference.cache
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.exe
+C:\Users\Casper.Bohlin\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.pdb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Axe.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Lose.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\MenuClick.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\PlayerD.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\PlayerD_2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Win.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\grupp 5.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Fonts\SpriteFont.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Axe.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Back.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Block.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\boll.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\ContinueB.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\CreditsList.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Credits.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Exit.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\GameOver.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Heart.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Instructions.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Loga.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\menu.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\NoButton.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  3.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  4.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  5.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  6.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.1.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.3.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.4.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.5.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.6.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.7.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Placeholder.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Play.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\spriteSheet.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\ghost.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Block2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Victory.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Victory2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\YesButton.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Tutorial.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\grupp 5.wma
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\JorgenFinal.exe
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\JorgenFinal.pdb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.csprojResolveAssemblyReference.cache
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.exe
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.pdb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Chest.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Valkyrie.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Axe.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Lose.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\MenuClick.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\PlayerD.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\PlayerD_2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Win.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Fonts\SpriteFont.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Axe.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Back.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Block.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\boll.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\ContinueB.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\CreditsList.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Credits.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Exit.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\GameOver.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Heart.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Instructions.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Loga.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\menu.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\NoButton.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  3.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  4.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  5.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  6.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.1.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.3.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.4.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.5.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.6.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.7.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Placeholder.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Play.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\spriteSheet.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Valkyrie.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Block2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Victory.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Victory2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\YesButton.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Tutorial.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Chest.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\ghost.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\JorgenFinal.exe
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\JorgenFinal.pdb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.csprojResolveAssemblyReference.cache
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.exe
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.pdb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Continue.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\mainTheme.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\campaign.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\mainTheme.wma
+C:\Users\musse.hasan\Desktop\JorgenFinal1.0\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\campaign.wma
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Axe.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Lose.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\MenuClick.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\PlayerD.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\PlayerD_2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Effects\Win.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\mainTheme.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\campaign.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Fonts\SpriteFont.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Axe.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Back.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Block.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\boll.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\ContinueB.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\CreditsList.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Credits.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Exit.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\GameOver.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Heart.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Instructions.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Loga.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\menu.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\NoButton.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  3.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  4.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  5.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax  6.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Parallax.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.1.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.3.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.4.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.5.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.6.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\parallax1.7.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Placeholder.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Play.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\spriteSheet.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Valkyrie.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Block2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Victory.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Victory2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\YesButton.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Tutorial.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Chest.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\ghost.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\spriteSheet\Continue.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\mainTheme.wma
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Content\Ost\campaign.wma
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\JorgenFinal.exe
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\JorgenFinal.pdb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.csprojResolveAssemblyReference.cache
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.exe
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\obj\x86\Debug\JorgenFinal.pdb

@@ -1,0 +1,65 @@
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\Effects\Axe.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\Effects\Lose.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\Effects\MenuClick.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\Effects\PlayerD.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\Effects\PlayerD_2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\Effects\Win.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\Ost\mainTheme.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\Ost\campaign.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\Fonts\SpriteFont.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Axe.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Back.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Block.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\boll.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\ContinueB.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\CreditsList.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Credits.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Exit.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\GameOver.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Heart.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Instructions.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Loga.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\menu.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\NoButton.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Parallax  2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Parallax  3.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Parallax  4.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Parallax  5.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Parallax  6.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Parallax.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\parallax1.1.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\parallax1.2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\parallax1.3.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\parallax1.4.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\parallax1.5.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\parallax1.6.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\parallax1.7.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Placeholder.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Play.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\spriteSheet.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Valkyrie.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Block2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Victory.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Victory2.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\YesButton.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Tutorial.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Chest.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\ghost.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\spriteSheet\Continue.xnb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\Ost\mainTheme.wma
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Content\Ost\campaign.wma
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\JorgenFinal.exe
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\JorgenFinal.pdb
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Microsoft.Xna.Framework.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Microsoft.Xna.Framework.Game.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Microsoft.Xna.Framework.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Microsoft.Xna.Framework.Game.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\bin\x86\Release\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\obj\x86\Release\JorgenFinal.exe
+C:\Users\musse.hasan\Desktop\JorgenFinal2.0IncludingDLC\JorgenFinal\JorgenFinal\obj\x86\Release\JorgenFinal.pdb
